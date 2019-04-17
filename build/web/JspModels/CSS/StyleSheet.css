@@ -1,0 +1,15 @@
+body{
+    background: aliceblue;
+}
+
+#row{
+   background-color: #99CCEE; 
+}
+
+#logInTable{
+    border: solid; 
+    width: 200px; 
+    height: 200px;
+    background-image: url("images/MoneyImage.jpg");
+}
+
